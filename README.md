@@ -4,7 +4,7 @@ This project applies clustering techniques to analyze the **Wine Quality Dataset
 
 ## Dataset
 
-- **Source**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/)
+- **Source**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv)
 - **Description**: Contains physicochemical properties and quality ratings for red wine samples.
 
 ## Project Overview
